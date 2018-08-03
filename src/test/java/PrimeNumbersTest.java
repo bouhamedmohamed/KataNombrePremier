@@ -18,12 +18,12 @@ public class PrimeNumbersTest {
     }
 
     /**
-     * Add a UT which checks that the argument of the calculate method is strictly higher than 1
+     * Add a UT which throws an IllegalArgumentException when argument is less than 2
      */
 
 
     /**
-     * Add a UT which checks that the argument of the calculate method isn't null
+     Add a UT which throws an NullPointerException when argument is NULL
      */
 
 }
